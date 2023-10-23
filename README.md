@@ -18,8 +18,7 @@ Today we are learning Github and Markdown.
 [Spiced Academy](https://www.spiced-academy.com/en)
 
 ## Image
-![Let's go](./smile.png)
-![Let's go](https://giphy.com/gifs/quarrel-overactionrabbit-sukoburu-mFHVjjtiSXKxAvO0yS)
+![Let's go](./giphy.gif)
 
 
 ## Code
