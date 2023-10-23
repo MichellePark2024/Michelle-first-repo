@@ -21,7 +21,7 @@ Today we are learning Github and Markdown.
 ![Let's go](./smile.png)
 
 
-##Code
+## Code
 ### Code Line
 We can add a code line 'console.log("Almost done")'
 
