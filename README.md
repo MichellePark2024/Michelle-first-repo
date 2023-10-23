@@ -32,11 +32,11 @@ We can add a code line 'console.log("Almost done")'
 
 ### Code Block
 ``` javascript
-{
+
   var firstName = 'Michelle';
   var lastName = 'Park';
   var age = 37;
 
 console.log('My name is',firstName, lastName,'and', age, 'years old');
-}
+
 ```
