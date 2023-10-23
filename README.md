@@ -14,15 +14,16 @@ Today we are learning Github and Markdown.
 - Second Item
 - Third Item
 
-## link to a page
+## link to a page👇
 [Spiced Academy](https://www.spiced-academy.com/en)
 
-## Image :joy:
+
+## Image :joy: 
 ![Let's go](./giphy.gif)
 
 
-
 ## Code 👇
+
 
 ### Code Line
 We can add a code line 'console.log("Almost done")'
