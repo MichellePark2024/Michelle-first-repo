@@ -1,8 +1,8 @@
-# Michelle-first-repo
+# Michelle-first-repo ❤️
 
 Today we are learning Github and Markdown.
 
-## List Md
+## List Md 👇
 
 ### Order List.
 1. Fist Item
@@ -17,12 +17,12 @@ Today we are learning Github and Markdown.
 ## link to a page
 [Spiced Academy](https://www.spiced-academy.com/en)
 
-## Image
+## Image :joy:
 ![Let's go](./giphy.gif)
 
 
 
-## Code
+## Code 👇
 
 ### Code Line
 We can add a code line 'console.log("Almost done")'
