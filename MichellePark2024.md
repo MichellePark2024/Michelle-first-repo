@@ -28,7 +28,7 @@ Today we are learning Github and Markdown.
 
 
 ### Code Line
-We can add a code line 'console.log("Almost done")'
+We can add a code line `console.log("Almost done")`
 
 ### Code Block
 ``` javascript
