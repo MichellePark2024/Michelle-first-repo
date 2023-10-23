@@ -20,6 +20,8 @@ Today we are learning Github and Markdown.
 ## Image
 ![Let's go](./giphy.gif)
 
+
+
 ## Code
 
 ### Code Line
