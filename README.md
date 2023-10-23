@@ -19,6 +19,7 @@ Today we are learning Github and Markdown.
 
 ## Image
 ![Let's go](./smile.png)
+![Let's go](https://giphy.com/gifs/quarrel-overactionrabbit-sukoburu-mFHVjjtiSXKxAvO0yS)
 
 
 ## Code
