@@ -15,4 +15,4 @@ Today we are learning Github and Markdown.
 - Third Item
 
 ## link to a page
-[Spiced Academy](https://www.spiced-academy.com/en)https://www.spiced-academy.com/en)
+[Spiced Academy](https://www.spiced-academy.com/en)
