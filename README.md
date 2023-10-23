@@ -31,10 +31,12 @@ Today we are learning Github and Markdown.
 We can add a code line 'console.log("Almost done")'
 
 ### Code Block
-```
+``` javascript
 {
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
+  var firstName = 'Michelle';
+  var lastName = 'Park';
+  var age = 37;
+
+console.log('My name is',firstName, lastName,'and', age, 'years old');
 }
 ```
